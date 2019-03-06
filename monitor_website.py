@@ -1,3 +1,5 @@
+# authour :rciddagoni
+# To monitor the website
 import os
 import smtplib
 import requests
